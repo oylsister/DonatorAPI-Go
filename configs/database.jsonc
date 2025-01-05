@@ -1,0 +1,7 @@
+{ 
+    "db_user": "yourusername", 
+    "db_password": "yourpassword", 
+    "db_name": "yourdbname", 
+    "db_hostname": "127.0.0.1",
+    "db_port": "3306"
+}
